@@ -1,0 +1,10 @@
+* scriba
+
+A markup language with Scribe syntax
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/CommonDoc/scriba.git   |
+| commit  | ce1ab03  |
+| systems | scriba |
+|---------+-------------------------------------------|
+
